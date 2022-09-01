@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libgraphviz.o.a CMakeFiles/graphviz.o.dir/graphviz.c.obj
+C:\mingw64\bin\ranlib.exe libgraphviz.o.a

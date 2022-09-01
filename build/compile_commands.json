@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/User/Desktop/cm/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe   -O2 -g -DNDEBUG -o CMakeFiles\\main.dir\\main.c.obj -c C:\\Users\\User\\Desktop\\cm\\main.c",
+  "file": "C:/Users/User/Desktop/cm/main.c"
+},
+{
+  "directory": "C:/Users/User/Desktop/cm/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe   -O2 -g -DNDEBUG -o CMakeFiles\\main.dir\\graphviz.c.obj -c C:\\Users\\User\\Desktop\\cm\\graphviz.c",
+  "file": "C:/Users/User/Desktop/cm/graphviz.c"
+}
+]
